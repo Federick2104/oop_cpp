@@ -1,0 +1,9 @@
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/StringSet.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Stack.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Razionale.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Vector.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Map.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Complex.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/Partito.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fedeeee/CLionProjects/oop_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
